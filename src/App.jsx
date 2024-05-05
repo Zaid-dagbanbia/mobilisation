@@ -35,9 +35,9 @@ function handleClearList(){
   const confirm = window.confirm("Are you sure you want to delete all items?");
   if (confirm) setItems([]);
 }
-
+// text-2-rem text-customColor font-quicksand font-medium w-full h-screen grid grid-rows-auto grid-rows-1fr grid-rows-auto
   return (
-    <div className='app text-2-rem text-customColor font-quicksand font-medium w-full h-screen grid grid-rows-auto grid-rows-1fr grid-rows-auto'>
+    <div className='app text-4xl text-customColor font-quicksand font-bold '>
       <Logo />
       <Form onAddItems={handleAddIitems} />
       <PackingList

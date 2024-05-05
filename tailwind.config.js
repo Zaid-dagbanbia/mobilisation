@@ -12,7 +12,10 @@ export default {
       },
       colors:{
         customColor: '#5a3e2b', 
-      }
+      },
+      fontSize: {
+        '2.4rem': '2.3rem',
+      },
     },
   },
   plugins: [],

@@ -2,7 +2,7 @@
 
 export default function Item({ item, onDeleteItem, onToggleItem }) {
     return (
-      <li>
+      <li className="flex items-center gap-5">
       <input
         type="checkbox"
         value={item.packed}
