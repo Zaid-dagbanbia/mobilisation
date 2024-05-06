@@ -20,31 +20,4 @@ html {
   font-size: 62.5%;
 }
 
-.app {
-  width: 100%;
-  height: 100vh;
-  display: grid;
-  grid-template-rows: auto auto 1fr auto;
-}
-
-h1 {
-  word-spacing: 30px; 
-}
-
-
-
-input[type="checkbox"] {
-  height: 2rem;
-  width: 2rem;
-  accent-color: #e5771f;
-}
-
-.list li button {
-  cursor: pointer;
-  background: none;
-  border: none;
-  font-size: 1.8rem;
-  padding: 0.8rem;
-  transform: translateY(2px);
-}
 
