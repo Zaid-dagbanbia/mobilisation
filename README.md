@@ -52,7 +52,7 @@
 
 1. Clone the repository:
 2.```bash
-    git clone https://github.com/yourusername/mobiliation.git
+    git clone https://github.com/Zaid-dagbanbia/mobilisation.git
     cd mobiliation
     ```
 
@@ -112,6 +112,8 @@
 ├── tailwind.config.js      # Tailwind CSS configuration
 ├── .env                    # Environment variables (if applicable)
 └── README.md               # Project documentation (you're reading it now!)
+
+``````
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
